@@ -1,5 +1,4 @@
-# KootzGame
-# Find Pre-Alpha files for KootzGame here!
+# KootzGame Pre-Alpha Build Repository
 ## About
 KootzGame began as a High School research project on game development and has morphed into a passion project. <br/>
 It's final name has since been revealed as *Squire* and more recent builds can be found [here](https://squire.ktzdev.com/builds "Build Website"). <br/>
