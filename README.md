@@ -10,5 +10,5 @@ The original idea for the game was developed in the Spring of 2021, but morphed 
 Originally, I had planned a large, 40+ hour role-playing game, but it soon became obvious that I did not have <br/>
 the skill to complete a working prototype by Spring 2022, when I was required to submit a version to my high schoool <br/>
 Thus, I reorganized the game into "An RPG that can be played in 20 minutes," focusing on procedural generation and <br/>
-replayability. In the near future, I am working on implementing basic classes for NPCs and procedural town generation <br/>
+replayability. In the near future, I am working on implementing basic classes for NPCs and procedural town generation. <br/>
 Check out the latest update [here](https://squire.ktzdev.com/builds "Build Website")!
